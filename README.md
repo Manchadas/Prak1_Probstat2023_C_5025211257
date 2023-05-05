@@ -32,10 +32,10 @@ f. Histogram pendistribusian banyak bayi laki-laki
 ### Soal 2
 
 Berikut merupakan screenshoot output Soal2.R 
-![jawaban](img/soal2-1.png)
+![jawaban](img/Soal2-1.png)
 
 Lanjutan G-H
-![jawaban](img/soal2-2.png)
+![jawaban](img/Soal2-2.png)
 
 Penjelasan singkat untuk setiap poin soal :
 
@@ -65,10 +65,10 @@ h. Menjelaskan hasil simulasi dan membandingkannya dengan hasil analitik sebelum
 ### Soal 3
 
 Berikut merupakan screenshoot output Soal3.R 
-![jawaban](img/soal3-1.png)
+![jawaban](img/Soal3-1.png)
 
 Berikut merupakan screenshoot output code poin B
-![jawaban](img/soal3-2.png)
+![jawaban](img/Soal3-2.png)
 
 Penjelasan singkat untuk setiap poin soal :
 
@@ -87,7 +87,7 @@ Berikut merupakan screenshoot output Soal4.R
 ![jawaban](img/soal4-1.png)
 
 Berikut merupakan screenshoot output code poin B
-![jawaban](img/soal4-2.png)
+![jawaban](img/Soal4-2.png)
 
 Penjelasan singkat untuk setiap poin soal :
 
@@ -117,7 +117,7 @@ c. Nilai varian (σ²) dari hasil data bangkitan acak distribusi Normal
 ### Soal 5
 
 Berikut merupakan screenshoot output Soal5.R 
-![jawaban](img/soal5-1.png)
+![jawaban](img/Soal5-1.png)
 
 Penjelasan singkat untuk setiap poin soal :
 a. pt(-2.34, df = 6) 
