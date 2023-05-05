@@ -117,7 +117,7 @@ c. Nilai varian (σ²) dari hasil data bangkitan acak distribusi Normal
 ### Soal 5
 
 Berikut merupakan screenshoot output Soal5.R 
-![jawaban](img/Soal5-1.png)
+![jawaban](img/Soal5.png)
 
 Penjelasan singkat untuk setiap poin soal :
 a. pt(-2.34, df = 6) 
